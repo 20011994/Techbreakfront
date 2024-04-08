@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
     <h1>redux</h1>
-      </div>
+   </div>
   );
 }
 
