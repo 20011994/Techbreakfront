@@ -5,8 +5,7 @@ function App() {
   return (
     <div className="App">
     <h1>redux</h1>
-     now we are statring frontend development
-    </div>
+      </div>
   );
 }
 
