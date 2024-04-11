@@ -5,10 +5,11 @@ function App() {
   return (
     <div className="App">
     <h1>redux</h1>
-    <h1>react</h1>
-
-
-    </div>
+      now we start frontend development123
+      <p>jjj</p>
+      <p>kkkk</p>
+      <p>mmmm</p>
+    </div> 
   );
 }
 
