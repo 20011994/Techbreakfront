@@ -1,0 +1,64 @@
+.loginform{
+    /* background-color: blue; */
+    width: 90%;
+    height: 300px;
+}
+.login-heading{
+    font-weight: 500;
+}
+p{
+    line-height: 26px;
+    font-weight: 400;
+    font-size: 13px;
+    
+}
+input{
+    height: 40px;
+    width: 100%;
+    border-radius: 8px;
+    border: 1px;
+    color:rgb(255, 255, 255);
+    border-color: #DDE5E9;
+    margin-top: 2%;
+}
+.login-button{
+    background-color: rgba(255, 194,13, 1);
+    height: 40px;
+    width: 100%;
+    border-radius: 8px;
+    border: 1px;
+    margin-top: 5%;
+}
+text{
+    font-size: 16px;
+    font-weight: 400;
+}
+.forgot-password{
+    font-size: 14px;
+    font-weight: 500;
+    color: rgba(11,37,114,1);
+   
+}
+
+.forgot-password-div{
+    display:flex;
+    justify-content: flex-end;
+    margin: 2%;
+}
+.backLogin{
+    display:flex;
+    justify-content: center;
+    margin: 8%;
+}
+.backLogin p{
+    font-size: 14px;
+    font-weight: 500;
+    color: rgba(11,37,114,1);
+   
+}
+
+@media screen and (max-width: 500px) {
+    .loginform{
+        height: 50vh;
+    }
+}
