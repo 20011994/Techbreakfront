@@ -9,7 +9,7 @@ import HomePage from './homepagemain/HomePage';
 function App() {
   return (
     <ChakraProvider>
-    <div className="">
+    <div >
     {/* <Login/> */}
     <NavbarMain/>
     <HomePage/>

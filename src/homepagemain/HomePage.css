@@ -3,6 +3,8 @@
 .master-div{
     /* width: 425px; */
     display: flex;
+  
+   
 }
 .main-div{
     /* background-color: red; */
@@ -98,10 +100,13 @@ align-items: center;
     /* background-color: red; */
     margin-right: 15px;
     /* display: flex; */
+    height: 100vh;
+    overflow-y: scroll;
    
 }
 .sidebar-right{
-    
+    height: 100vh;
+    overflow-y: scroll;
    
 }
 .sidebar-right-head{
